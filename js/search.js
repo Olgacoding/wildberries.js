@@ -14,10 +14,11 @@ const search = function () {
 
 
 
-    // searchBtn.addEventListener('click', () => {
-    //     // console.log(searchBtn);
-    //     console.log(input.value);
-    // }) - HOMEWORK  - check homework and correct me please.
+    searchBtn.addEventListener('click', () => {
+        // console.log(searchBtn);
+        console.log(input.value);
+    }) 
+    // HOMEWORK  - check homework and correct me please.
 }
 
 search()
